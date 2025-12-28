@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 27, 2025
+title: Latest 15 Papers - December 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_Multimodal) page for a better reading experience and more papers.**
