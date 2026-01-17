@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_Multimodal) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals](https://arxiv.org/abs/2601.10700v1)** | 2026-01-15 |  |
 | **[BASIL: Bayesian Assessment of Sycophancy in LLMs](https://arxiv.org/abs/2508.16846v3)** | 2026-01-15 |  |
 | **[Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs](https://arxiv.org/abs/2601.10645v1)** | 2026-01-15 |  |
 | **[Can LLMs Understand What We Cannot Say? Measuring Multilevel Alignment Through Abortion Stigma Across Cognitive, Interpersonal, and Structural Levels](https://arxiv.org/abs/2512.13142v4)** | 2026-01-15 |  |
@@ -78,11 +79,12 @@ labels: documentation
 | **[NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM](https://arxiv.org/abs/2508.01351v2)** | 2026-01-15 |  |
 | **[Robust and Efficient Zeroth-Order LLM Fine-Tuning via Adaptive Bayesian Subspace Optimizer](https://arxiv.org/abs/2601.01452v3)** | 2026-01-15 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 5 tables</p></details> |
 | **[Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](https://arxiv.org/abs/2601.10332v1)** | 2026-01-15 |  |
-| **[An Efficient Long-Context Ranking Architecture With Calibrated LLM Distillation: Application to Person-Job Fit](https://arxiv.org/abs/2601.10321v1)** | 2026-01-15 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1)** | 2026-01-15 |  |
+| **[Controllable Financial Market Generation with Diffusion Guided Meta Agent](https://arxiv.org/abs/2408.12991v3)** | 2026-01-15 | <details><summary>To ap...</summary><p>To appear in The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26 Oral)</p></details> |
 | **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667v2)** | 2026-01-15 | Work in Progress |
 | **[Procedural Fairness in Multi-Agent Bandits](https://arxiv.org/abs/2601.10600v1)** | 2026-01-15 |  |
 | **[From Single to Multi-Agent Reasoning: Advancing GeneGPT for Genomics QA](https://arxiv.org/abs/2601.10581v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted paper by the 48th European Conference on Information Retrieval (ECIR'26)</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[STEAMROLLER: A Multi-Agent System for Inclusive Automatic Speech Recognition for People who Stutter](https://arxiv.org/abs/2601.10223v1)** | 2026-01-15 |  |
 | **[Agentic Pipelines in Embedded Software Engineering: Emerging Practices and Challenges](https://arxiv.org/abs/2601.10220v1)** | 2026-01-15 |  |
 | **[Mistake Notebook Learning: Batch-Clustered Failures for Training-Free Agent Adaptation](https://arxiv.org/abs/2512.11485v2)** | 2026-01-15 |  |
-| **[AWED-FiNER: Agents, Web applications, and Expert Detectors for Fine-grained Named Entity Recognition across 36 Languages for 6.6 Billion Speakers](https://arxiv.org/abs/2601.10161v1)** | 2026-01-15 | <details><summary>Submi...</summary><p>Submitted to ACL'26 System Demonstration</p></details> |
-| **[ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback](https://arxiv.org/abs/2601.10156v1)** | 2026-01-15 | <details><summary>Work ...</summary><p>Work in Progress. Code available: https://github.com/MurrayTom/ToolSafe</p></details> |
 
