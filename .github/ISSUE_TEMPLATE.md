@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2026
+title: Latest 15 Papers - February 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_Multimodal) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Multimodal Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantifying Multimodal Imbalance: A GMM-Guided Adaptive Loss for Audio-Visual Learning](https://arxiv.org/abs/2510.21797v3)** | 2026-02-10 |  |
+| **[Towards Uniformity and Alignment for Multimodal Representation Learning](https://arxiv.org/abs/2602.09507v1)** | 2026-02-10 |  |
+| **[Multimodal Learning for Arcing Detection in Pantograph-Catenary Systems](https://arxiv.org/abs/2602.08792v1)** | 2026-02-09 |  |
 | **[Test-time Adaptive Hierarchical Co-enhanced Denoising Network for Reliable Multimodal Classification](https://arxiv.org/abs/2601.07163v2)** | 2026-02-05 | <details><summary>14 pa...</summary><p>14 pages,9 figures, 8 tables</p></details> |
 | **[Active Asymmetric Multi-Agent Multimodal Learning under Uncertainty](https://arxiv.org/abs/2602.04763v1)** | 2026-02-04 |  |
 | **[CyIN: Cyclic Informative Latent Space for Bridging Complete and Incomplete Multimodal Learning](https://arxiv.org/abs/2602.04920v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -19,83 +22,80 @@ labels: documentation
 | **[MEIDNet: Multimodal generative AI framework for inverse materials design](https://arxiv.org/abs/2601.22009v1)** | 2026-01-29 |  |
 | **[Embracing Aleatoric Uncertainty in Medical Multimodal Learning with Missing Modalities](https://arxiv.org/abs/2601.21950v1)** | 2026-01-29 |  |
 | **[Robust Multimodal Representation Learning in Healthcare](https://arxiv.org/abs/2601.21941v1)** | 2026-01-29 |  |
-| **[Neural Signals Generate Clinical Notes in the Wild](https://arxiv.org/abs/2601.22197v1)** | 2026-01-29 |  |
-| **[When Gradient Optimization Is Not Enough: $\dagger$ Dispersive and Anchoring Geometric Regularizer for Multimodal Learning](https://arxiv.org/abs/2601.21670v1)** | 2026-01-29 |  |
-| **[Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion](https://arxiv.org/abs/2502.20120v4)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Core to Detail: Unsupervised Disentanglement with Entropy-Ordered Flows](https://arxiv.org/abs/2602.06940v1)** | 2026-02-06 |  |
-| **[AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design](https://arxiv.org/abs/2602.04916v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[3D Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2106.10823v4)** | 2026-02-06 | <details><summary>The m...</summary><p>The manuscript is accepted by Pattern Recognition on 14 May 2022</p></details> |
-| **[Gold Exploration using Representations from a Multispectral Autoencoder](https://arxiv.org/abs/2602.06748v1)** | 2026-02-06 | <details><summary>Prese...</summary><p>Presented in Eurips2025, 1st Workshop: Advances in Representation Learning for Earth Observation</p></details> |
-| **[Disentanglement by means of action-induced representations](https://arxiv.org/abs/2602.06741v1)** | 2026-02-06 | <details><summary>Main ...</summary><p>Main text: 10 pages, 4 figures</p></details> |
-| **[A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604v2)** | 2026-02-06 | <details><summary>v2: c...</summary><p>v2: clarify confusion in definition of JEPAs vs. regularization-based JEPAs</p></details> |
-| **[Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting](https://arxiv.org/abs/2505.11781v2)** | 2026-02-06 | Preprint |
-| **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
-| **[Let LLMs Speak Embedding Languages: Generative Text Embeddings via Iterative Contrastive Refinement](https://arxiv.org/abs/2509.24291v2)** | 2026-02-06 |  |
-| **[A neuromorphic model of the insect visual system for natural image processing](https://arxiv.org/abs/2602.06405v1)** | 2026-02-06 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, under review</p></details> |
-| **[CSRv2: Unlocking Ultra-Sparse Embeddings](https://arxiv.org/abs/2602.05735v2)** | 2026-02-06 | Accepted by ICLR2026 |
-| **[ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning](https://arxiv.org/abs/2602.06251v1)** | 2026-02-05 |  |
-| **[Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction](https://arxiv.org/abs/2602.02201v2)** | 2026-02-05 |  |
-| **[Orthogonal Self-Attention](https://arxiv.org/abs/2602.05996v1)** | 2026-02-05 | Preprint |
-| **[GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra](https://arxiv.org/abs/2506.08194v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Camera ready version</p></details> |
+| **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](https://arxiv.org/abs/2509.14181v3)** | 2026-02-10 |  |
+| **[Efficient Unsupervised Environment Design through Hierarchical Policy Representation Learning](https://arxiv.org/abs/2602.09813v1)** | 2026-02-10 |  |
+| **[Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views](https://arxiv.org/abs/2602.08755v2)** | 2026-02-10 |  |
+| **[A Hierarchical Quantized Tokenization Framework for Task-Adaptive Graph Representation Learning](https://arxiv.org/abs/2510.12369v2)** | 2026-02-10 |  |
+| **[PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits](https://arxiv.org/abs/2509.11362v2)** | 2026-02-10 | ICLR 2026 |
+| **[NeuroRVQ: Multi-Scale EEG Tokenization for Generative Large Brainwave Models](https://arxiv.org/abs/2510.13068v3)** | 2026-02-10 |  |
+| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v3)** | 2026-02-10 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
+| **[UniShare: A Unified Framework for Joint Video and Receiver Recommendation in Social Sharing](https://arxiv.org/abs/2602.09618v1)** | 2026-02-10 |  |
+| **[AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception](https://arxiv.org/abs/2602.09617v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Enhancing Fake-News Detection with Node-Level Topological Features](https://arxiv.org/abs/2512.09974v3)** | 2026-02-10 |  |
+| **[Towards Uniformity and Alignment for Multimodal Representation Learning](https://arxiv.org/abs/2602.09507v1)** | 2026-02-10 |  |
+| **[Weakly Supervised Contrastive Learning for Histopathology Patch Embeddings](https://arxiv.org/abs/2602.09477v1)** | 2026-02-10 |  |
+| **[Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081v3)** | 2026-02-10 | Accepted by TMLR |
+| **[CSRv2: Unlocking Ultra-Sparse Embeddings](https://arxiv.org/abs/2602.05735v3)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by ICLR2026. Project Page: https://y-research-sbu.github.io/CSRv2/</p></details> |
+| **[Empowering Contrastive Federated Sequential Recommendation with LLMs](https://arxiv.org/abs/2602.09306v1)** | 2026-02-10 |  |
 
 ## Causal Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning](https://arxiv.org/abs/2507.05526v2)** | 2026-02-10 |  |
+| **[Estimating causal effects of functional treatments with modified functional treatment policies](https://arxiv.org/abs/2602.09145v1)** | 2026-02-09 |  |
+| **[Estimating Aleatoric Uncertainty in the Causal Treatment Effect](https://arxiv.org/abs/2602.08461v1)** | 2026-02-09 |  |
+| **[Multivariate Causal Effects: a Bayesian Causal Regression Factor Model](https://arxiv.org/abs/2504.03480v3)** | 2026-02-08 |  |
+| **[Estimation Strategies for Causal Decomposition Analysis with Allowability Specifications](https://arxiv.org/abs/2602.07825v1)** | 2026-02-08 |  |
+| **[Disentangled Instrumental Variables for Causal Inference with Networked Observational Data](https://arxiv.org/abs/2602.07765v1)** | 2026-02-08 |  |
+| **[Identification and Debiased Learning of Causal Effects with General Instrumental Variables](https://arxiv.org/abs/2510.20404v2)** | 2026-02-07 |  |
+| **[On the Computational Efficiency of Bayesian Additive Regression Trees: An Asymptotic Analysis](https://arxiv.org/abs/2406.19958v2)** | 2026-02-07 |  |
+| **[Causal Online Learning of Safe Regions in Cloud Radio Access Networks](https://arxiv.org/abs/2602.05280v2)** | 2026-02-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Causal Data Fusion for Panel Data without a Pre-Intervention Period](https://arxiv.org/abs/2410.16391v4)** | 2026-02-06 |  |
 | **[FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://arxiv.org/abs/2602.05305v2)** | 2026-02-06 |  |
 | **[Adventures in Demand Analysis Using AI](https://arxiv.org/abs/2501.00382v3)** | 2026-02-06 | 35 pages, 8 figures |
 | **[Can Post-Training Transform LLMs into Causal Reasoners?](https://arxiv.org/abs/2602.06337v1)** | 2026-02-06 |  |
 | **[Position: Machine Learning for Heart Transplant Allocation Policy Optimization Should Account for Incentives](https://arxiv.org/abs/2602.04990v2)** | 2026-02-06 |  |
 | **[ProDAG: Projected Variational Inference for Directed Acyclic Graphs](https://arxiv.org/abs/2405.15167v8)** | 2026-02-06 | <details><summary>To ap...</summary><p>To appear in Advances in Neural Information Processing Systems</p></details> |
-| **[Latent variation in pathogen strain-specific effects under multiple-versions-of-treatment theory](https://arxiv.org/abs/2602.06262v1)** | 2026-02-05 | 9 pages, 1 figure |
-| **[Distributional Balancing for Causal Inference: A Unified Framework via Characteristic Function Distance](https://arxiv.org/abs/2601.15449v2)** | 2026-02-05 | 36 pages |
-| **[DeDPO: Debiased Direct Preference Optimization for Diffusion Models](https://arxiv.org/abs/2602.06195v1)** | 2026-02-05 |  |
-| **[Causal Inference on Stopped Random Walks in Online Advertising](https://arxiv.org/abs/2602.05997v1)** | 2026-02-05 |  |
-| **[Causal Online Learning of Safe Regions in Cloud Radio Access Networks](https://arxiv.org/abs/2602.05280v1)** | 2026-02-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Bridging Binarization: Causal Inference with Dichotomized Continuous Exposures](https://arxiv.org/abs/2405.07109v5)** | 2026-02-04 |  |
-| **[Double Variable Importance Matching to Estimate Distinct Causal Effects on Event Probability and Timing](https://arxiv.org/abs/2602.05022v1)** | 2026-02-04 |  |
-| **[Membership Inference Attacks from Causal Principles](https://arxiv.org/abs/2602.02819v2)** | 2026-02-04 | <details><summary>Fixed...</summary><p>Fixed ref label problems</p></details> |
-| **[Causal Inference for the Effect of Code Coverage on Bug Introduction](https://arxiv.org/abs/2602.03585v1)** | 2026-02-03 | <details><summary>Regis...</summary><p>Registered Report with Continuity Acceptance (CA) for submission to Empirical Software Engineering granted by RR-Committee of the MSR'26</p></details> |
-| **[Causal Inference on Networks under Misspecified Exposure Mappings: A Partial Identification Framework](https://arxiv.org/abs/2602.03459v1)** | 2026-02-03 |  |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EigenTrack: Spectral Activation Feature Tracking for Hallucination and Out-of-Distribution Detection in LLMs and VLMs](https://arxiv.org/abs/2509.15735v4)** | 2026-02-06 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2026, September 2025</p></details> |
-| **[TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering](https://arxiv.org/abs/2602.06911v1)** | 2026-02-06 | 28 pages, 13 figures |
-| **[Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations](https://arxiv.org/abs/2602.06887v1)** | 2026-02-06 |  |
-| **[You Had One Job: Per-Task Quantization Using LLMs' Hidden Representations](https://arxiv.org/abs/2511.06516v2)** | 2026-02-06 |  |
-| **[Constella: Supporting Storywriters' Interconnected Character Creation through LLM-based Multi-Agents](https://arxiv.org/abs/2507.05820v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted to ACM Transactions on Computer-Human Interaction (TOCHI)</p></details> |
-| **[TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](https://arxiv.org/abs/2602.06875v1)** | 2026-02-06 |  |
-| **[AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design](https://arxiv.org/abs/2602.04916v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: Structured Cognitive Loop with a Governance Layer](https://arxiv.org/abs/2511.17673v4)** | 2026-02-06 | <details><summary>This ...</summary><p>This revised version strengthens the architectural clarity and conceptual coherence of the manuscript. In particular, it formalizes Soft Symbolic Control as a dedicated Governance layer distinct from the R-CCAM loop, clarifying its structural role beyond the earlier meta-prompt add-on formulation</p></details> |
-| **[LLM Active Alignment: A Nash Equilibrium Perspective](https://arxiv.org/abs/2602.06836v1)** | 2026-02-06 |  |
-| **[Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities](https://arxiv.org/abs/2602.05281v2)** | 2026-02-06 |  |
-| **[Trust Region Masking for Long-Horizon LLM Reinforcement Learning](https://arxiv.org/abs/2512.23075v2)** | 2026-02-06 |  |
-| **[Bridging 6G IoT and AI: LLM-Based Efficient Approach for Physical Layer's Optimization Tasks](https://arxiv.org/abs/2602.06819v1)** | 2026-02-06 | <details><summary>This ...</summary><p>This paper is submitted to IEEE IoT Journal and is currently under review</p></details> |
-| **[Estimating Semantic Alphabet Size for LLM Uncertainty Quantification](https://arxiv.org/abs/2509.14478v2)** | 2026-02-06 |  |
-| **[A Unified Framework for LLM Watermarks](https://arxiv.org/abs/2602.06754v1)** | 2026-02-06 |  |
-| **[LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation](https://arxiv.org/abs/2601.19585v2)** | 2026-02-06 |  |
+| **[Biases in the Blind Spot: Detecting What LLMs Fail to Mention](https://arxiv.org/abs/2602.10117v1)** | 2026-02-10 | <details><summary>10 pa...</summary><p>10 pages, Under review at ICML 2026</p></details> |
+| **[Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing](https://arxiv.org/abs/2602.10092v1)** | 2026-02-10 | 18 pages |
+| **[CyberExplorer: Benchmarking LLM Offensive Security Capabilities in a Real-World Attacking Simulation Environment](https://arxiv.org/abs/2602.08023v2)** | 2026-02-10 |  |
+| **[From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?](https://arxiv.org/abs/2512.03005v3)** | 2026-02-10 | Under review |
+| **[SCORE: Specificity, Context Utilization, Robustness, and Relevance for Reference-Free LLM Evaluation](https://arxiv.org/abs/2602.10017v1)** | 2026-02-10 |  |
+| **[The Impact of LLMs on Online News Consumption and Production](https://arxiv.org/abs/2512.24968v3)** | 2026-02-10 |  |
+| **[Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents](https://arxiv.org/abs/2602.09944v1)** | 2026-02-10 |  |
+| **[ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs](https://arxiv.org/abs/2602.07721v2)** | 2026-02-10 | <details><summary>25 pa...</summary><p>25 pages, 16 figures. Under review</p></details> |
+| **[JMigBench: A Benchmark for Evaluating LLMs on Source Code Migration (Java 8 to Java 11)](https://arxiv.org/abs/2602.09930v1)** | 2026-02-10 |  |
+| **[LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations](https://arxiv.org/abs/2602.09924v1)** | 2026-02-10 |  |
+| **[Routing, Cascades, and User Choice for LLMs](https://arxiv.org/abs/2602.09902v1)** | 2026-02-10 | <details><summary>23 pa...</summary><p>23 pages, accepted in ICLR 2026</p></details> |
+| **[QP-OneModel: A Unified Generative LLM for Multi-Task Query Understanding in Xiaohongshu Search](https://arxiv.org/abs/2602.09901v1)** | 2026-02-10 |  |
+| **[A large-scale pipeline for automatic corpus annotation using LLMs: variation and change in the English consider construction](https://arxiv.org/abs/2510.12306v2)** | 2026-02-10 |  |
+| **[CoFEH: LLM-driven Feature Engineering Empowered by Collaborative Bayesian Hyperparameter Optimization](https://arxiv.org/abs/2602.09851v1)** | 2026-02-10 |  |
+| **[LLM-based Vulnerable Code Augmentation: Generate or Refactor?](https://arxiv.org/abs/2512.08493v2)** | 2026-02-10 | <details><summary>15 pa...</summary><p>15 pages, Accepted by ESAAN 2026, version with added appendix</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Uncertainty Reveals Agentic Overconfidence](https://arxiv.org/abs/2602.06948v1)** | 2026-02-06 |  |
-| **[Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing](https://arxiv.org/abs/2602.06925v1)** | 2026-02-06 |  |
-| **[Yunjue Agent Tech Report: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks](https://arxiv.org/abs/2601.18226v2)** | 2026-02-06 |  |
-| **[Constella: Supporting Storywriters' Interconnected Character Creation through LLM-based Multi-Agents](https://arxiv.org/abs/2507.05820v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted to ACM Transactions on Computer-Human Interaction (TOCHI)</p></details> |
-| **[TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](https://arxiv.org/abs/2602.06875v1)** | 2026-02-06 |  |
-| **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v1)** | 2026-02-06 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
-| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: Structured Cognitive Loop with a Governance Layer](https://arxiv.org/abs/2511.17673v4)** | 2026-02-06 | <details><summary>This ...</summary><p>This revised version strengthens the architectural clarity and conceptual coherence of the manuscript. In particular, it formalizes Soft Symbolic Control as a dedicated Governance layer distinct from the R-CCAM loop, clarifying its structural role beyond the earlier meta-prompt add-on formulation</p></details> |
-| **[From Features to Actions: Explainability in Traditional and Agentic AI Systems](https://arxiv.org/abs/2602.06841v1)** | 2026-02-06 |  |
-| **[ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training](https://arxiv.org/abs/2602.06820v1)** | 2026-02-06 |  |
-| **[OmniCode: A Benchmark for Evaluating Software Engineering Agents](https://arxiv.org/abs/2602.02262v2)** | 2026-02-06 |  |
-| **[Towards Agentic Intelligence for Materials Science](https://arxiv.org/abs/2602.00169v2)** | 2026-02-06 | 81 pages |
-| **[Pairwise is Not Enough: Hypergraph Neural Networks for Multi-Agent Pathfinding](https://arxiv.org/abs/2602.06733v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion](https://arxiv.org/abs/2602.06724v1)** | 2026-02-06 |  |
-| **[PrefIx: Understand and Adapt to User Preference in Human-Agent Interaction](https://arxiv.org/abs/2602.06714v1)** | 2026-02-06 |  |
-| **[Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening](https://arxiv.org/abs/2602.05386v2)** | 2026-02-06 |  |
+| **[SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project Page: https://nvlabs.github.io/sage</p></details> |
+| **[Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v1)** | 2026-02-10 | 41 pages |
+| **[Artisan: Agentic Artifact Evaluation](https://arxiv.org/abs/2602.10046v1)** | 2026-02-10 |  |
+| **[Among Us: A Sandbox for Measuring and Detecting Agentic Deception](https://arxiv.org/abs/2504.04072v3)** | 2026-02-10 | 21 pages, preprint |
+| **[ContextBench: A Benchmark for Context Retrieval in Coding Agents](https://arxiv.org/abs/2602.05892v2)** | 2026-02-10 | <details><summary>36 pa...</summary><p>36 pages, 6 figures, 4 tables</p></details> |
+| **[Trustworthy Agentic AI Requires Deterministic Architectural Boundaries](https://arxiv.org/abs/2602.09947v1)** | 2026-02-10 |  |
+| **[Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning](https://arxiv.org/abs/2602.09945v1)** | 2026-02-10 |  |
+| **[Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation](https://arxiv.org/abs/2512.05812v3)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted for publication by IEEE International Conference on Robotics & Automation (ICRA 2026)</p></details> |
+| **[Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?](https://arxiv.org/abs/2602.09937v1)** | 2026-02-10 |  |
+| **[Focus Session: LLM4PQC -- An Agentic Framework for Accurate and Efficient Synthesis of PQC Cores](https://arxiv.org/abs/2602.09919v1)** | 2026-02-10 | Submitted to DATE 26 |
+| **[Multi-Agent Reinforcement Learning Simulation for Environmental Policy Synthesis](https://arxiv.org/abs/2504.12777v3)** | 2026-02-10 | <details><summary>Publi...</summary><p>Published in AAMAS'25 Blue Sky Ideas Track</p></details> |
+| **[Immersion in the GitHub Universe: Scaling Coding Agents to Mastery](https://arxiv.org/abs/2602.09892v1)** | 2026-02-10 |  |
+| **[Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models](https://arxiv.org/abs/2510.01304v2)** | 2026-02-10 |  |
+| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v2)** | 2026-02-10 | Work In Progress |
+| **[MAPS: A Multilingual Benchmark for Agent Performance and Security](https://arxiv.org/abs/2505.15935v3)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 findings</p></details> |
 
