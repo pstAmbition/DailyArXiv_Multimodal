@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 30, 2026
+title: Latest 15 Papers - May 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_Multimodal) page for a better reading experience and more papers.**
