@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 04, 2026
+title: Latest 15 Papers - July 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_Multimodal) page for a better reading experience and more papers.**
@@ -90,8 +90,8 @@ labels: documentation
 | **[AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition](https://arxiv.org/abs/2607.02448v1)** | 2026-07-02 |  |
 | **[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228v2)** | 2026-07-02 | <details><summary>Tech ...</summary><p>Tech report. Code at: https://github.com/VILA-Lab/Dive-into-Claude-Code</p></details> |
 | **[BLAgent: Agentic RAG for File-Level Bug Localization](https://arxiv.org/abs/2605.17965v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study](https://arxiv.org/abs/2607.02436v1)** | 2026-07-02 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 10 tables. Dataset and evaluation artifacts: https://doi.org/10.5281/zenodo.21134406</p></details> |
 | **[Evaluating Collective Behaviour of Hundreds of LLM Agents](https://arxiv.org/abs/2602.16662v2)** | 2026-07-02 | 18 pages, 5 figures |
+| **[Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study](https://arxiv.org/abs/2607.02436v1)** | 2026-07-02 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 10 tables. Dataset and evaluation artifacts: https://doi.org/10.5281/zenodo.21134406</p></details> |
 | **[QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition](https://arxiv.org/abs/2607.02426v1)** | 2026-07-02 |  |
 | **[The Token Not Taken: Sampling, State, and the Stochasticity of AI Agents](https://arxiv.org/abs/2606.08998v3)** | 2026-07-02 |  |
 | **[Steerability via constraints: a substrate for scalable oversight of coding agents](https://arxiv.org/abs/2607.02389v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to the Deep Learning for Code Workshop at the 43rd International Conference on Machine Learning, Seoul, South Korea, 2026</p></details> |
