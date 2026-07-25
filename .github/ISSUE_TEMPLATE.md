@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 24, 2026
+title: Latest 15 Papers - July 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/pstAmbition/DailyArXiv_Multimodal) page for a better reading experience and more papers.**
@@ -70,7 +70,7 @@ labels: documentation
 | **[Detecting LLM-Generated Tokens in Human--LLM Coauthored Text](https://arxiv.org/abs/2607.21458v1)** | 2026-07-23 |  |
 | **[When Trivia Is Not Trivial: Everyday Knowledge Failures in Multilingual LLMs](https://arxiv.org/abs/2607.21445v1)** | 2026-07-23 | submitted to the ARR |
 | **[ARCO: Adaptive Rubrics with Co-Evolution for Multi-Step LLM-Based Agents](https://arxiv.org/abs/2606.21262v2)** | 2026-07-23 |  |
-| **[Capital Markets LLM Reliability Score (CM-LRS): From Plausible to Bankable](https://arxiv.org/abs/2607.21340v1)** | 2026-07-23 | <details><summary>23 pa...</summary><p>23 pages. Resubmission of submit/7557765, which expired due to an arXiv system bug (confirmed in support ticket AH-199019); the overfull-box correction requested by moderators has been applied. Original submission held in moderation since 14 May 2026. Therefore, request priority review/approval</p></details> |
+| **[Capital Markets LLM Reliability Score (CM-LRS): From Plausible to Bankable](https://arxiv.org/abs/2607.21340v1)** | 2026-07-23 | <details><summary>23 pa...</summary><p>23 pages. Rubrics, prompts, and demonstration tasks are publicly available.</p></details> |
 | **[From Static Bibliometrics to Dynamic Knowledge Graphs: An LLM-Powered Framework for Modernizing Science, Technology, and Innovation (STI) Analytics](https://arxiv.org/abs/2607.21327v1)** | 2026-07-23 |  |
 | **[Silent Failures in Quantized LLM Reasoning: A Taxonomy-Based Analysis of Hollow Convergence and Failure Mode Shifts](https://arxiv.org/abs/2607.09999v2)** | 2026-07-23 |  |
 | **[Scaling Up Formal Representation of Clinical Trial Protocols in Ensemble Logic Using LLMs: A Preliminary Study](https://arxiv.org/abs/2607.21307v1)** | 2026-07-23 | <details><summary>Proce...</summary><p>Proceedings of the 2026 American Medical Informatics Association Symposium, to appear</p></details> |
